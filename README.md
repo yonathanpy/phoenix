@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./assets/phoenix_flame.svg" width="400" alt="PHOENIX Toolkit Banner" />
+  <img src="https://img.icons8.com/ios-filled/500/000000/fire-element.png" width="200" alt="PHOENIX Fire Icon"/>
 </p>
 
+# PHOENIX
 
 Advanced Reconnaissance and Vulnerability Scanning Toolkit
 
