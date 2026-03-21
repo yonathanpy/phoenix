@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:330000&height=200&section=header&text=PHOENIX&fontSize=70&fontColor=ff4500&animation=twinkle&fontAlignY=40" />
+  <img src="./assets/phoenix_flame.svg" width="400" alt="PHOENIX Toolkit Banner" />
 </p>
 
 
